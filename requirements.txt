@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-classic
+sentence-transformers
+faiss-cpu
+rank-bm25
+pypdf
+python-docx
+docx2txt
+ragas
+datasets
+rapidfuzz
+pandas
